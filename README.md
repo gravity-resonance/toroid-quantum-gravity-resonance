@@ -41,4 +41,11 @@ Commercial or malicious use is not permitted without prior agreement.
 
 ---
 
+## Author and Contact
+
+This project is published under the pseudonym **Gravity Resonance** to preserve privacy from general internet indexing.
+
+For serious scientific inquiries, collaboration proposals, or formal agreements (including commercial or research use), the author is willing to disclose identity under mutual confidentiality and signed agreement. Please use Zenodo's private messaging or GitHub Discussions to initiate contact.
+
+
 *This is a scientific and philosophical call to honor the origin of ideas. Recognition in both academic and technological applications is requested. If your work builds spacecraft from this theory, a seat on the maiden voyage would be appreciated.*
