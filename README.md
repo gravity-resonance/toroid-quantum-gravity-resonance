@@ -1,51 +1,79 @@
 # Toroid and Nanoparticle Models for Quantum-Gravitational Resonance
 
-This repository presents the theoretical framework proposed in:
+This repository presents a theoretical framework for achieving quantum–gravitational resonance through engineered symmetry between the de Broglie wavelength and the Schwarzschild radius:
+$\lambda = R_s$
 
-**"Toroid and Nanoparticle Models for Quantum-Gravitational Resonance via de Broglie–Schwarzschild Symmetry"**  
-Authored by: *Gravity Resonance*  
-Zenodo DOI: [10.5281/zenodo.16371538](https://doi.org/10.5281/zenodo.16371538)
+While this relationship naturally arises only at the Planck scale — and in a single object under extreme relativistic conditions — we propose a **two-subsystem approach** to realize it in laboratory-accessible systems.
 
----
+## Core Idea
 
-## Overview
+The resonance condition is constructed between two physical subsystems:
 
-This work explores a novel quantum-gravity resonance condition:  
-> **λ = Rₛ**,  
-where the de Broglie wavelength of a quantum wave matches the Schwarzschild radius of the system's gravitational mass.
+* A **mass subsystem** (tungsten), providing most of the gravitational mass:
+  $R_s = \frac{2GM}{c^2}$
+* A **wave subsystem** (graphene electrons), providing mobile quantum waves:
+  $\lambda = \frac{h}{mv}$
 
-Two primary experimental configurations are examined:
+By tuning electron velocities or using relativistic drift, one can match the effective wave to the mass’s Schwarzschild radius.
 
-1. A graphene-coated tungsten **toroid**
-2. A dense **nanoparticle cloud** aligned via magnetic field lines
+## Investigated Configurations
 
-These designs aim to bring quantum–gravitational symmetry into laboratory reach using known materials and no exotic physics.
+1. **Graphene-coated tungsten toroid**
+2. **Dense cloud of graphene-coated tungsten nanoparticles**
 
----
+These hybrid systems allow the de Broglie wavelength to approach the Schwarzschild radius at:
+$\lambda = R_s \approx 10^{-25} \, \text{m}$
 
-## Citation
+## Visual Illustration
 
-If extending or modifying this framework, please cite the original model:
+![Toroid Resonance Model](./TungstenGrapheneToroid.png)  
+*Fig. 1 — Graphene-coated tungsten toroid configuration achieving λ = Rₛ symmetry.*
 
-> "Toroid and Nanoparticle Models for Quantum-Gravitational Resonance via de Broglie–Schwarzschild Symmetry", Zenodo (2025).  
-> DOI: [10.5281/zenodo.16371538](https://doi.org/10.5281/zenodo.16371538)
+![Nanoparticle Cloud Resonance](./NanoparticleCloud.png)  
+*Fig. 2 — Dense graphene–tungsten nanoparticle cloud designed to produce resonance at ~10⁻²⁵ m.*
 
-Further development notes are available in the companion OSF archive.
+![Nanoparticle Cloud in the form of Toroid](./NanoparticleCloudToroid.png)  
+*Fig. 2 — Magnetic fields form a nanoparticle cloud rotating toroid increasing the likelyhood of resonance at ~10⁻²⁵ m.*
 
----
-
-## License
-
-This project is licensed under **CC-BY-NC 4.0** (Attribution–NonCommercial).  
-Commercial or malicious use is not permitted without prior agreement.
+These images show the coupling between mass and wave subsystems in a structured configuration, enabling a symmetry not accessible in standard particles.
 
 ---
 
-## Author and Contact
+## Motivation
 
-This project is published under the pseudonym **Gravity Resonance** to preserve privacy from general internet indexing.
+* Explore possible access to quantum–gravitational interaction without new particles or speculative physics.
+* Inspire new directions in experimental setups involving **structured mass–wave systems**.
+* Open a route toward speculative applications in **resonant energy systems**, **propulsion concepts**, and **black hole analogs**.
+
+## Licensing and Citation
+
+* **Author**: *Gravity Resonance* (pseudonym)
+* **DOI**: [10.5281/zenodo.16371538](https://doi.org/10.5281/zenodo.16371538)
+* **License**: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+> Recognition is requested in both scientific and technological applications. A seat on the maiden voyage is optional — but appreciated 😉
+
+
+* **Author and Contact**:
+This project is published under the pseudonym Gravity Resonance to preserve privacy from general internet indexing.
 
 For serious scientific inquiries, collaboration proposals, or formal agreements (including commercial or research use), the author is willing to disclose identity under mutual confidentiality and signed agreement. Please use Zenodo's private messaging or GitHub Discussions to initiate contact.
 
 
-*This is a scientific and philosophical call to honor the origin of ideas. Recognition in both academic and technological applications is requested. If your work builds spacecraft from this theory, a seat on the maiden voyage would be appreciated.*
+## Topics
+
+```text
+quantum-gravity, de-broglie, schwarzschild-radius, toroid, resonance,
+graphene, nanoparticles, black-hole-physics, relativity, planck-scale,
+gravity, quantum-mechanics, quantum-field-theory, fundamental-physics,
+high-energy-physics, experimental-physics, wave-particle-duality,
+quantum-wave, de-broglie-wavelength, tungsten
+```
+
+## Companion Resources
+
+* [Zenodo Record](https://zenodo.org/record/16371538)
+* OSF Archive (linked in Zenodo description)
+
+---
+> *This is both a scientific and philosophical call to honor the origin of ideas.*
