@@ -1,3 +1,4 @@
+
 # Toroid and Nanoparticle Models for Quantum-Gravitational Resonance
 
 This repository presents a theoretical framework for achieving quantum–gravitational resonance through engineered symmetry between the de Broglie wavelength and the Schwarzschild radius:
@@ -32,7 +33,7 @@ $\lambda = R_s \approx 10^{-25} \, \text{m}$
 ![Nanoparticle Cloud Resonance](./NanoparticleCloud.png)  
 *Fig. 2 — Dense graphene–tungsten nanoparticle cloud designed to produce resonance at ~10⁻²⁵ m.*
 
-![Nanoparticle Cloud in the form of Toroid](./NanoparticleCloudToroid.png)  
+![Nanoparticle Cloud in the form of Toroid](./CloudToroidNanoparticles.png)  
 *Fig. 2 — Magnetic fields form a nanoparticle cloud rotating toroid increasing the likelyhood of resonance at ~10⁻²⁵ m.*
 
 These images show the coupling between mass and wave subsystems in a structured configuration, enabling a symmetry not accessible in standard particles.
