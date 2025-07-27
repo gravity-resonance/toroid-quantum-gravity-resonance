@@ -34,7 +34,7 @@ $\lambda = R_s \approx 10^{-25} \, \text{m}$
 *Fig. 2 — Dense graphene–tungsten nanoparticle cloud designed to produce resonance at ~10⁻²⁵ m.*
 
 ![Nanoparticle Cloud in the form of Toroid](./CloudToroidNanoparticles.png)  
-*Fig. 2 — Magnetic fields form a nanoparticle cloud rotating toroid increasing the likelyhood of resonance at ~10⁻²⁵ m.*
+*Fig. 2 — Magnetic fields form a rotating nanoparticle cloud toroid increasing the likelyhood of resonance at ~10⁻²⁵ m.*
 
 These images show the coupling between mass and wave subsystems in a structured configuration, enabling a symmetry not accessible in standard particles.
 
