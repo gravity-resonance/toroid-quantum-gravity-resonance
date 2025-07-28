@@ -52,7 +52,7 @@ These images show the coupling between mass and wave subsystems in a structured 
 * **DOI**: [10.5281/zenodo.16371538](https://doi.org/10.5281/zenodo.16371538)
 * **License**: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
-> Recognition is requested in both scientific and technological applications. A seat on the maiden voyage is optional — but appreciated 😉
+> Recognition and prior agreement is requested in both scientific and technological applications. A seat on the maiden voyage is optional — but appreciated 😉
 
 
 * **Author and Contact**:
