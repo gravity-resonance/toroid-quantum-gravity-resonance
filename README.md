@@ -53,6 +53,9 @@ These images show the coupling between mass and wave subsystems in a structured 
 - **DOI**: <https://doi.org/10.5281/zenodo.16371538>  
 - **License**: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 - **Author**: *Gravity Resonance* (pseudonym)
+> This project is published under the pseudonym Gravity Resonance to preserve privacy from general internet indexing.
+> For collaboration requests or formal use (academic/commercial), please contact via Zenodo private messaging or GitHub Discussions — identity may be shared with verified scientific partners under mutual agreement.
+
 
 > Please acknowledge the original Zenodo publication in scientific or technological use.  
 > A seat on the maiden voyage is optional — but appreciated 😉
