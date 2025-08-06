@@ -48,32 +48,34 @@ These images show the coupling between mass and wave subsystems in a structured 
 
 
 ---
-### 📄 Citation (BibTeX)
+## 📄 Citation & Licensing
+
+- **DOI**: <https://doi.org/10.5281/zenodo.16371538>  
+- **License**: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+- **Author**: *Gravity Resonance* (pseudonym)
+
+> Please acknowledge the original Zenodo publication in scientific or technological use.  
+> A seat on the maiden voyage is optional — but appreciated 😉
+
+<details>
+<summary><strong>BibTeX (for citation managers)</strong></summary>
 
 ```bibtex
 @misc{gravity_resonance_2025,
   author       = {Gravity Resonance},
   title        = {Toroid and Nanoparticle Models for Quantum-Gravitational Resonance via de Broglie–Schwarzschild Symmetry},
-  year         = 2025,
+  year         = {2025},
   doi          = {10.5281/zenodo.16371538},
   publisher    = {Zenodo},
   url          = {https://doi.org/10.5281/zenodo.16371538}
 }
 
+</details>
+For collaboration requests or formal use (academic/commercial), please contact via Zenodo private messaging or GitHub Discussions — identity may be shared with verified scientific partners under mutual agreement.
 
-## Licensing and Citation
-
-* **Author**: *Gravity Resonance* (pseudonym)
-* **DOI**: [10.5281/zenodo.16371538](https://doi.org/10.5281/zenodo.16371538)
-* **License**: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-
-> Recognition and prior agreement is requested in both scientific and technological applications. A seat on the maiden voyage is optional — but appreciated 😉
-
-
-* **Author and Contact**:
 This project is published under the pseudonym Gravity Resonance to preserve privacy from general internet indexing.
 
-For serious scientific inquiries, collaboration proposals, or formal agreements (including commercial or research use), the author is willing to disclose identity under mutual confidentiality and signed agreement. Please use Zenodo's private messaging or GitHub Discussions to initiate contact.
+
 
 
 ## Topics
