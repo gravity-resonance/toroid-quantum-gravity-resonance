@@ -2,7 +2,7 @@
 # Toroid and Nanoparticle Models for Quantum-Gravitational Resonance
 
 This repository presents a theoretical framework for achieving quantum–gravitational resonance through engineered symmetry between the de Broglie wavelength and the Schwarzschild radius:
-$\lambda = R_s$
+$\lambda = R_s$  
 
 While this relationship naturally arises only at the Planck scale — and in a single object under extreme relativistic conditions — we propose a **two-subsystem approach** to realize it in laboratory-accessible systems.
 
