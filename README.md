@@ -46,8 +46,14 @@ These images show the coupling between mass and wave subsystems in a structured 
 * Inspire new directions in experimental setups involving **structured mass–wave systems**.
 * Open a route toward speculative applications in **resonant energy systems**, **propulsion concepts**, and **black hole analogs**.
 
+```
+```
+## Companion Resources
 
----
+* [Zenodo Record](https://zenodo.org/record/16371538)
+* OSF Archive (linked in Zenodo description)
+```
+```
 ## 📄 Citation & Licensing
 
 - **DOI**: <https://doi.org/10.5281/zenodo.16371538>  
@@ -76,7 +82,7 @@ These images show the coupling between mass and wave subsystems in a structured 
 </details>
 
 
-
+```
 ## Topics
 
 ```text
@@ -84,13 +90,7 @@ quantum-gravity, de-broglie, schwarzschild-radius, toroid, resonance,
 graphene, nanoparticles, black-hole-physics, relativity, planck-scale,
 gravity, quantum-mechanics, quantum-field-theory, fundamental-physics,
 high-energy-physics, experimental-physics, wave-particle-duality,
-quantum-wave, de-broglie-wavelength, tungsten
-```
-
-## Companion Resources
-
-* [Zenodo Record](https://zenodo.org/record/16371538)
-* OSF Archive (linked in Zenodo description)
-
+quantum-wave, de-broglie-wavelength, tungsten 
 ---
+```
 > *This is both a scientific and philosophical call to honor the origin of ideas.*
