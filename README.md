@@ -46,6 +46,21 @@ These images show the coupling between mass and wave subsystems in a structured 
 * Inspire new directions in experimental setups involving **structured mass–wave systems**.
 * Open a route toward speculative applications in **resonant energy systems**, **propulsion concepts**, and **black hole analogs**.
 
+
+---
+### 📄 Citation (BibTeX)
+
+```bibtex
+@misc{gravity_resonance_2025,
+  author       = {Gravity Resonance},
+  title        = {Toroid and Nanoparticle Models for Quantum-Gravitational Resonance via de Broglie–Schwarzschild Symmetry},
+  year         = 2025,
+  doi          = {10.5281/zenodo.16371538},
+  publisher    = {Zenodo},
+  url          = {https://doi.org/10.5281/zenodo.16371538}
+}
+
+
 ## Licensing and Citation
 
 * **Author**: *Gravity Resonance* (pseudonym)
