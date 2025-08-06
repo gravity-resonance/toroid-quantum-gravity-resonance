@@ -46,8 +46,7 @@ These images show the coupling between mass and wave subsystems in a structured 
 * Inspire new directions in experimental setups involving **structured mass–wave systems**.
 * Open a route toward speculative applications in **resonant energy systems**, **propulsion concepts**, and **black hole analogs**.
 
-```
-```
+
 ## Companion Resources
 
 * [Zenodo Record](https://zenodo.org/record/16371538)
