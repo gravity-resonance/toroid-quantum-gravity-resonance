@@ -74,10 +74,6 @@ These images show the coupling between mass and wave subsystems in a structured 
 }
 
 </details>
-For collaboration requests or formal use (academic/commercial), please contact via Zenodo private messaging or GitHub Discussions — identity may be shared with verified scientific partners under mutual agreement.
-
-This project is published under the pseudonym Gravity Resonance to preserve privacy from general internet indexing.
-
 
 
 
