@@ -62,7 +62,8 @@ These images show the coupling between mass and wave subsystems in a structured 
 > For collaboration requests or formal use (academic/commercial), please contact via Zenodo private messaging or GitHub Discussions — identity may be shared with verified scientific partners under mutual agreement.
 
 
-> Please acknowledge the original Zenodo publication in scientific or technological use.  
+> Please acknowledge the original Zenodo publication in scientific or technological use.
+>*This is both a scientific and philosophical call to honor the origin of ideas.*
 > A seat on the maiden voyage is optional — but appreciated 😉
 
 <details>
@@ -78,8 +79,6 @@ These images show the coupling between mass and wave subsystems in a structured 
   url          = {https://doi.org/10.5281/zenodo.16371538}
 }
 
-</details>
-
 
 ```
 ## Topics
@@ -89,7 +88,7 @@ quantum-gravity, de-broglie, schwarzschild-radius, toroid, resonance,
 graphene, nanoparticles, black-hole-physics, relativity, planck-scale,
 gravity, quantum-mechanics, quantum-field-theory, fundamental-physics,
 high-energy-physics, experimental-physics, wave-particle-duality,
-quantum-wave, de-broglie-wavelength, tungsten 
----
-```
-> *This is both a scientific and philosophical call to honor the origin of ideas.*
+quantum-wave, de-broglie-wavelength, tungsten
+
+
+
