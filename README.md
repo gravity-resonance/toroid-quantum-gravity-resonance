@@ -1,5 +1,7 @@
 # Toroid Models for Quantum–Gravitational Resonance via de Broglie–Schwarzschild Symmetry
 
+The full A-series of 9 articles is available here https://zenodo.org/records/18888582
+
 This repository presents a theoretical framework for achieving **quantum–gravitational resonance** through engineered symmetry between the **de Broglie wavelength** and the **Schwarzschild radius**:
 
 $\lambda = R_s$
