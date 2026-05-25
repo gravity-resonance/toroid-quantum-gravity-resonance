@@ -1,6 +1,28 @@
-# Toroid Models for Quantum–Gravitational Resonance via de Broglie–Schwarzschild Symmetry
+# Models for Quantum–Gravitational Resonance via de Broglie–Kerr Symmetry
 
 The full A-series of 9 articles is available here https://zenodo.org/records/18888582
+
+A1b — Toroid Models for Quantum-Gravitational Resonance via de Broglie–Schwarzschild Symmetry DOI: https://doi.org/10.5281/zenodo.16449277
+
+A2 — Soft-Matter Toroid for Quantum–Gravitational Resonance: Toward a Tabletop Realization of de Broglie–Schwarzschild Symmetry DOI: https://doi.org/10.5281/zenodo.17541112
+
+A3 — De Broglie–Kerr Ergosphere Resonance in Rotating Coherent Systems: Listening to the Horizon DOI: https://doi.org/10.5281/zenodo.17594467
+
+A4 — Imaginary Kerr Horizon in Every Rotating Body Below One Solar Mass: A Universal Quantum-Gravity Boundary DOI: https://doi.org/10.5281/zenodo.17619734
+
+A5 — Quantum-Gravitational Double-Resonance Propulsion Rings: Spacecraft-Scale Architecture and Physical Basis DOI: https://doi.org/10.5281/zenodo.17634226
+
+A6 — Hybrid van der Waals Graphene–Hydrogel–Mass-Seed Resonator for Asymmetric Mechanical Response and Electromechanical Output DOI: https://doi.org/10.5281/zenodo.17684823
+
+A7 (Version 2)— Imaginary Kerr Horizons in Ordinary Rotating Matter: A New Geometric Property and Its Possible Connection to the Universal 1–5 Hz Signal DOI: https://doi.org/10.5281/zenodo.19320019
+
+A8 (Version 2) — Kerr Geometry and the Angular-Duality Wavelength: Mass Cancellation and Borderline Resonance from Nanoparticle to Galaxy https://doi.org/10.5281/zenodo.19275058
+
+A9: The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1--5 Hz Universal Hum https://doi.org/10.5281/zenodo.18888582
+
+The earlier papers (A1–A6) explore possible engineered resonance systems, while A7–A9 focus on deriving mass and geometric scales from observed phenomena and standard equations.
+
+
 
 This repository presents a theoretical framework for achieving **quantum–gravitational resonance** through engineered symmetry between the **de Broglie wavelength** and the **Schwarzschild radius**:
 
