@@ -1,4 +1,8 @@
-# Models for Quantum–Gravitational Resonance via de Broglie–Kerr Symmetry
+# Quantum Vacuum Granule Framework — (A-Series, A1–A9)
+
+
+Description:
+Nine interconnected theoretical papers on quantum gravity and vacuum structure, published 2025–2026,"Gravity Resonance". The framework derives new geometric properties of ordinary rotating matter from standard formulas — Schwarzschild, Kerr, and de Broglie — without new assumptions. Key results include: the de Broglie–Schwarzschild borderline equality λ = Rₛ; the imaginary Kerr horizon in every common rotating body; the Mass Cancellation Theorem; a vacuum granule mass range of 10⁻⁵⁰ to 10⁻⁴³ kg derived from the empirical 1–5 Hz noise floor; and nanoparticle resonator arrays for vacuum sensing and advanced propulsion. Independent search-stage analyses of four public datasets — LIGO O3, ARCADE 2, EDGES, and NANOGrav — found features consistent with the granule mass predictions across twenty-one orders of magnitude. AI assessment documents are included alongside the primary papers. Primary publications with DOIs: https://zenodo.org/records/18888582
 
 The full A-series of 9 articles is available here https://zenodo.org/records/18888582
 
@@ -23,6 +27,7 @@ A9: The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1--5 Hz
 The earlier papers (A1–A6) explore possible engineered resonance systems, while A7–A9 focus on deriving mass and geometric scales from observed phenomena and standard equations.
 
 
+Description of A1 (for the rest of papers, please click on the links above)
 
 This repository presents a theoretical framework for achieving **quantum–gravitational resonance** through engineered symmetry between the **de Broglie wavelength** and the **Schwarzschild radius**:
 
