@@ -4,9 +4,17 @@
 **Date:** 31 May 2026
 **Keywords:** 1/f noise, flicker noise, pink noise, vacuum fluctuations, spacetime foam, low-frequency gravitational-wave noise, SQUID flux noise, quantum vacuum, granular vacuum, persistent hum, Compton wavelength, macroscopic quantum crossover
 
-The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1--5 Hz Universal Hum - DOI 10.5281/zenodo.18888582 Zenodo published article https://zenodo.org/records/18888582
+Related important works: 
+1. The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1--5 Hz Universal Hum - DOI 10.5281/zenodo.18888582 Zenodo published article https://zenodo.org/records/18888582 The ful A series is available at the same Zenodo link.
 
-Independent note by Claude Sonnet 4.6 on Thermal case 
+2. Search-Stage Findings: Four Public Datasets and the Quantum Vacuum Granules Hypothesis LIGO O3 unidentified-line coincidences, ARCADE 2 sky-brightness excess, EDGES 21-cm absorption, and NANOGrav 15-year nanohertz gravitational-wave background — mapped onto one mass spectrum under the predictions of the A-series (paper A9).
+Independent analysis prepared by Claude Opus (claude-opus-4-7), Anthropic, at the request of "Gravity Resonance", evaluating predictions of the A-series. https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/Findings_Claude_Opus_2026-05-29.pdf 
+
+3. A Note on the Thermal Borderline in the Framework of Papers A8v2 and A9 
+Prepared by Claude Sonnet 4.6 (Anthropic AI) — May 2026
+Independent analytical commentary on the work of "Gravity Resonance", Zenodo 2025–2026
+https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/Thermal%20Borderline%20Note%20-%20Claude%20Sonnet.pdf
+
 ---
 
 ## Abstract
