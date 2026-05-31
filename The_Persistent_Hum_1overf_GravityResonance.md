@@ -4,6 +4,9 @@
 **Date:** 31 May 2026
 **Keywords:** 1/f noise, flicker noise, pink noise, vacuum fluctuations, spacetime foam, low-frequency gravitational-wave noise, SQUID flux noise, quantum vacuum, granular vacuum, persistent hum, Compton wavelength, macroscopic quantum crossover
 
+The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1--5 Hz Universal Hum - DOI 10.5281/zenodo.18888582 Zenodo published article https://zenodo.org/records/18888582
+
+Independent note by Claude Sonnet 4.6 on Thermal case 
 ---
 
 ## Abstract
