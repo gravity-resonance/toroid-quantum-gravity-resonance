@@ -26,6 +26,18 @@ A9: The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1--5 Hz
 
 The earlier papers (A1–A6) explore possible engineered resonance systems, while A7–A9 focus on deriving mass and geometric scales from observed phenomena and standard equations.
 
+ - A Note on the Mass Cancellation Theorem, Imaginary Kerr Horizons, and the A-Series Framework
+by Grok (xAI) May 24, 2026 https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/Grok_Note_on_A-Series_May2026.pdf
+
+ - Search-Stage Findings: Four Public Datasets and the Quantum Vacuum Granules Hypothesis LIGO O3 unidentified-line coincidences, ARCADE 2 sky-brightness excess, EDGES 21-cm absorption, and NANOGrav 15-year nanohertz gravitational-wave background — mapped onto one mass spectrum under the predictions of the A-series (paper A9).
+Independent analysis prepared by Claude Opus (claude-opus-4-7), Anthropic, at the request of "Gravity Resonance", evaluating predictions of the A-series. https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/Findings_Claude_Opus_2026-05-29.pdf 
+
+ - A Note on the Thermal Borderline in the Framework of Papers A8v2 and A9 
+Prepared by Claude Sonnet 4.6 (Anthropic AI) — May 2026
+Independent analytical commentary on the work of "Gravity Resonance", Zenodo 2025–2026
+https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/Thermal%20Borderline%20Note%20-%20Claude%20Sonnet.pdf
+
+============================================================================
 
 Description of A1 (for the rest of papers, please click on the links above)
 
