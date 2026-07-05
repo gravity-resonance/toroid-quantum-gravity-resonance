@@ -6,28 +6,33 @@ Nine interconnected theoretical papers on quantum gravity and vacuum structure, 
 
 The full A-series of 9 articles is available here https://zenodo.org/records/18888582
 
-A1b — Toroid Models for Quantum-Gravitational Resonance via de Broglie–Schwarzschild Symmetry DOI: https://doi.org/10.5281/zenodo.16449277
+A1 — Toroid Models for Quantum-Gravitational Resonance via de Broglie–Schwarzschild Symmetry DOI: https://doi.org/10.5281/zenodo.16371537
 
-A2 — Soft-Matter Toroid for Quantum–Gravitational Resonance: Toward a Tabletop Realization of de Broglie–Schwarzschild Symmetry DOI: https://doi.org/10.5281/zenodo.17541112
+A2 — Soft-Matter Toroid for Quantum–Gravitational Resonance: Toward a Tabletop Realization of de Broglie–Schwarzschild Symmetry DOI: https://doi.org/10.5281/zenodo.17541111
 
-A3 — De Broglie–Kerr Ergosphere Resonance in Rotating Coherent Systems: Listening to the Horizon DOI: https://doi.org/10.5281/zenodo.17594467
+A3 — De Broglie–Kerr Ergosphere Resonance in Rotating Coherent Systems: Listening to the Horizon DOI: https://doi.org/10.5281/zenodo.17594466
 
-A4 — Imaginary Kerr Horizon in Every Rotating Body Below One Solar Mass: A Universal Quantum-Gravity Boundary DOI: https://doi.org/10.5281/zenodo.17619734
+A4 — Imaginary Kerr Horizon in Every Rotating Body Below One Solar Mass: A Universal Quantum-Gravity Boundary DOI: https://doi.org/10.5281/zenodo.17619733
 
-A5 — Quantum-Gravitational Double-Resonance Propulsion Rings: Spacecraft-Scale Architecture and Physical Basis DOI: https://doi.org/10.5281/zenodo.17634226
+A5 — Quantum-Gravitational Double-Resonance Propulsion Rings: Spacecraft-Scale Architecture and Physical Basis DOI: https://doi.org/10.5281/zenodo.17634225
 
 A6 — Hybrid van der Waals Graphene–Hydrogel–Mass-Seed Resonator for Asymmetric Mechanical Response and Electromechanical Output DOI: https://doi.org/10.5281/zenodo.17684823
 
-A7 (Version 2)— Imaginary Kerr Horizons in Ordinary Rotating Matter: A New Geometric Property and Its Possible Connection to the Universal 1–5 Hz Signal DOI: https://doi.org/10.5281/zenodo.19320019
+A7 — Imaginary Kerr Horizons in Ordinary Rotating Matter: A New Geometric Property and Its Possible Connection to the Universal 1–5 Hz Signal DOI: https://doi.org/10.5281/zenodo.17731384
 
-A8 (Version 2) — Kerr Geometry and the Angular-Duality Wavelength: Mass Cancellation and Borderline Resonance from Nanoparticle to Galaxy https://doi.org/10.5281/zenodo.19275058
+A8 — Kerr Geometry and the Angular-Duality Wavelength: Mass Cancellation and Borderline Resonance from Nanoparticle to Galaxy https://doi.org/10.5281/zenodo.18006564
 
-A9: The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1--5 Hz Universal Hum https://doi.org/10.5281/zenodo.18888582
+A9: The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1--5 Hz Universal Hum https://doi.org/10.5281/zenodo.18888581
+
+A10: The Vacuum-Granule Waves: A Test-First Synthesis of AI-Analyzed Results 
+https://zenodo.org/records/20729725
 
 The earlier papers (A1–A6) explore possible engineered resonance systems, while A7–A9 focus on deriving mass and geometric scales from observed phenomena and standard equations.
 
  - A Note on the Mass Cancellation Theorem, Imaginary Kerr Horizons, and the A-Series Framework
 by Grok (xAI) May 24, 2026 https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/Grok_Note_on_A-Series_May2026.pdf
+
+- The A-Series Framework: Independent Evaluation by Claude Opus 4.7 (Anthropic) https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/Claude%20Opus_4_7_evaluation.pdf
 
  - Search-Stage Findings: Four Public Datasets and the Quantum Vacuum Granules Hypothesis LIGO O3 unidentified-line coincidences, ARCADE 2 sky-brightness excess, EDGES 21-cm absorption, and NANOGrav 15-year nanohertz gravitational-wave background — mapped onto one mass spectrum under the predictions of the A-series (paper A9).
 Independent analysis prepared by Claude Opus (claude-opus-4-7), Anthropic, at the request of "Gravity Resonance", evaluating predictions of the A-series. https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/Findings_Claude_Opus_2026-05-29.pdf 
