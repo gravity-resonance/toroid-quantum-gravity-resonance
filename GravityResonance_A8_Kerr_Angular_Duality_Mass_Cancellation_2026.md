@@ -6,12 +6,12 @@
 **"Gravity Resonance"**
 gravity.resonance@proton.me
 
-DOI: [10.5281/zenodo.20795446](https://doi.org/10.5281/zenodo.20795446)
+DOI: [10.5281/zenodo.20795446 with the published article in pdf format](https://doi.org/10.5281/zenodo.20795446)
 
 *December 21, 2025 — revised March 29, 2026 — (v3 corrections June 2026)*
 
-Link to A-series: on [Github](https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/README.md),
-and on [Zenodo](https://zenodo.org/records/18888582)
+Link to A-series: [Github](https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/README.md)
+[Zenodo](https://zenodo.org/records/18888582)
 ---
 
 ## Abstract
