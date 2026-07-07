@@ -330,11 +330,11 @@ The author thanks the following AI systems for computational assistance, cross-v
 
 ## References
 
-1. Protitch, M. (2025). *A4: The Imaginary Kerr Horizon and Vacuum Resonance Structure*. Gravity Resonance Series. DOI: [10.5281/zenodo.17619733](https://doi.org/10.5281/zenodo.17619733)
+1. "Gravity Resonance" (2025). *A4: The Imaginary Kerr Horizon and Vacuum Resonance Structure*. Gravity Resonance Series. DOI: [10.5281/zenodo.17619733](https://doi.org/10.5281/zenodo.17619733)
 
-2. Protitch, M. (2025). *A7: Negative Effective Mass and the Geometric Origin of 1–5 Hz Noise*. Gravity Resonance Series. DOI: [10.5281/zenodo.17731385](https://doi.org/10.5281/zenodo.17731385)
+2. "Gravity Resonance" (2025). *A7: Negative Effective Mass and the Geometric Origin of 1–5 Hz Noise*. Gravity Resonance Series. DOI: [10.5281/zenodo.17731385](https://doi.org/10.5281/zenodo.17731385)
 
-3. Protitch, M. (2025). *A8: Kerr–de Broglie Universality and the Mass Cancellation Theorem*. Gravity Resonance Series. DOI: [10.5281/zenodo.18006565](https://doi.org/10.5281/zenodo.18006565)
+3. "Gravity Resonance" (2025). *A8: Kerr–de Broglie Universality and the Mass Cancellation Theorem*. Gravity Resonance Series. DOI: [10.5281/zenodo.18006565](https://doi.org/10.5281/zenodo.18006565)
 
 4. Wheeler, J. A. (1955). Geons. *Physical Review*, 97(2), 511.
 
