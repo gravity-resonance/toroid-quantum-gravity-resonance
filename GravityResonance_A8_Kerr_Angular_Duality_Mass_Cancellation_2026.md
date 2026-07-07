@@ -6,7 +6,8 @@
 **Author (pseudonym): "Gravity Resonance"**
 gravity.resonance@proton.me
 
-DOI: [10.5281/zenodo.20795446] (https://doi.org/10.5281/zenodo.20795446) Zenodo article published in pdf format
+DOI: [10.5281/zenodo.20795446](https://doi.org/10.5281/zenodo.20795446) 
+Zenodo article published in pdf format
 
 *December 21, 2025 — revised March 29, 2026 — (v3 corrections June 2026)*
 
