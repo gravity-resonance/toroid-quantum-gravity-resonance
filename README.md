@@ -130,7 +130,6 @@ The work continues in A5, A11 and A12 (links above).
 
 * [Zenodo Record, all versions](https://doi.org/10.5281/zenodo.16371537)  
 * [Zenodo Version 4 (2026)](https://doi.org/10.5281/zenodo.23811063)  
-* [Zenodo Version 2](https://doi.org/10.5281/zenodo.16449277)  
 * OSF Archive (linked in Zenodo description)
 
 ---
@@ -138,7 +137,7 @@ The work continues in A5, A11 and A12 (links above).
 ## 📄 Citation & Copyright
 
 - **Author:** *Gravity Resonance* (pseudonym)  
-- **Copyright:** © 2025–2026 Gravity Resonance. All rights reserved. Earlier versions of A1 (2025) were released under CC BY-NC 4.0.  
+- **Copyright:** © 2025–2026 Gravity Resonance. All rights reserved. 
 > This project is published under the pseudonym Gravity Resonance to preserve privacy. For collaboration, please write to gravity.resonance@proton.me.
 
 ---
