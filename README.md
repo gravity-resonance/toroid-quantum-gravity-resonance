@@ -1,12 +1,14 @@
-# Quantum Vacuum Granule Framework — (A-Series, A1–A10)
+# Gravity Resonance — A-Series (A1–A15)
 
 
 Description:
-Ten interconnected theoretical papers on quantum gravity and vacuum structure, published 2025–2026,"Gravity Resonance". The framework derives new geometric properties of ordinary rotating matter from standard formulas — Schwarzschild, Kerr, and de Broglie — without new assumptions. Key results include: the de Broglie–Schwarzschild borderline equality λ = Rₛ; the imaginary Kerr horizon in every common rotating body; the Mass Cancellation Theorem; a vacuum granule mass range of 10⁻⁵⁰ to 10⁻⁴³ kg derived from the empirical 1–5 Hz noise floor; and nanoparticle resonator arrays for vacuum sensing and advanced propulsion. Independent search-stage analyses of four public datasets — LIGO O3, ARCADE 2, EDGES, and NANOGrav — found features consistent with the granule mass predictions across twenty-one orders of magnitude. AI assessment documents are included alongside the primary papers. Primary publications with DOIs: https://zenodo.org/records/18888582
+Interconnected theoretical papers on quantum gravity and vacuum structure, published 2025–2026 by "Gravity Resonance". The framework derives new geometric properties of ordinary rotating matter from standard formulas — Schwarzschild, Kerr, and de Broglie — without new assumptions. Key results include: the de Broglie–Schwarzschild borderline equality λ = Rₛ; the imaginary Kerr horizon in every common rotating body; the Mass Cancellation Theorem; a vacuum granule mass bracket of 10⁻⁵⁰ to 10⁻⁴³ kg read from the empirical 1–5 Hz noise floor; and nanoparticle resonator arrays for vacuum sensing and advanced propulsion. Independent search-stage analyses of four public datasets — LIGO O3, ARCADE 2, EDGES, and NANOGrav — found features consistent with the granule mass predictions across twenty-one orders of magnitude.
 
-The full A-series of 10 articles is available here https://zenodo.org/records/18888582
+Since 2026 the series develops the **Compton lock** (A11–A15): a superconducting ring that carries one Cooper pair per reduced Compton length of the pair, ħ/(2mₑc) = 1.93×10⁻¹³ m. Constants of nature fix the test point (I·R = 2ec, which is 96 nA for a 1-mm ring), and the papers design laboratory tests.
 
-A1 — Toroid Models for Quantum-Gravitational Resonance via de Broglie–Schwarzschild Symmetry DOI: https://doi.org/10.5281/zenodo.16371537
+AI assessment documents are included alongside the primary papers. The series list with all DOIs is kept on the A11 record: https://doi.org/10.5281/zenodo.22825134
+
+A1 — Toroid Models for Quantum-Gravitational Resonance via de Broglie–Schwarzschild Symmetry DOI: https://doi.org/10.5281/zenodo.16371537 (latest, Version 4, 2026: https://doi.org/10.5281/zenodo.23811063)
 
 A2 — Soft-Matter Toroid for Quantum–Gravitational Resonance: Toward a Tabletop Realization of de Broglie–Schwarzschild Symmetry DOI: https://doi.org/10.5281/zenodo.17541111
 
@@ -22,12 +24,19 @@ A7 — Imaginary Kerr Horizons in Ordinary Rotating Matter: A New Geometric Prop
 
 A8 — Kerr Geometry and the Angular-Duality Wavelength: Mass Cancellation and Borderline Resonance from Nanoparticle to Galaxy https://doi.org/10.5281/zenodo.18006564
 
-A9: The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1--5 Hz Universal Hum https://doi.org/10.5281/zenodo.18888581
+A9 — The Quantum Vacuum Granule: Three Complementary Mass Scales from the 1–5 Hz Universal Hum https://doi.org/10.5281/zenodo.18888581
 
-A10: The Vacuum-Granule Waves: A Test-First Synthesis of AI-Analyzed Results 
-https://zenodo.org/records/20729725
+A10 — The Vacuum-Granule Waves: A Test-First Synthesis of AI-Analyzed Results https://zenodo.org/records/20729725
 
-The earlier papers (A1–A6) explore possible engineered resonance systems, while A7–A9 focus on deriving mass and geometric scales from observed phenomena and standard equations.
+A11 — The Compton Lock in a Superconducting Ring: Quantum circulation, Kerr geometry, and the case for a laboratory test https://doi.org/10.5281/zenodo.22825134
+
+A12 — The Proton-to-Planck Window: Proposed Rotational and Superconducting Tests of Quantum-Scale Matching https://doi.org/10.5281/zenodo.22844145
+
+A14 — One Cooper Pair per Compton Length: Does the vacuum field between superconducting rings change? A test from two rings to enclosures https://doi.org/10.5281/zenodo.23483233
+
+A15 — Listening Where Waves Stay Silent: Bound states in the continuum, moving phases and quantum rotors as vacuum receivers tuned by the Compton lock https://doi.org/10.5281/zenodo.23857960
+
+The earlier papers (A1–A6) explore possible engineered resonance systems, while A7–A9 focus on deriving mass and geometric scales from observed phenomena and standard equations. A10 tests these predictions on public data. A11–A15 develop the Compton lock and its laboratory tests.
 
  - A Note on the Mass Cancellation Theorem, Imaginary Kerr Horizons, and the A-Series Framework
 by Grok (xAI) May 24, 2026 https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/Grok_Note_on_A-Series_May2026.pdf
@@ -44,13 +53,13 @@ https://github.com/gravity-resonance/toroid-quantum-gravity-resonance/blob/main/
 
 ============================================================================
 
-Description of A1 (for the rest of papers, please click on the links above)
+Description of A1, Version 4 (for the other papers, please follow the links above)
 
-This repository presents a theoretical framework for achieving **quantum–gravitational resonance** through engineered symmetry between the **de Broglie wavelength** and the **Schwarzschild radius**:
+This repository presents a theoretical framework for achieving **quantum–gravitational resonance** through engineered symmetry between the **de Broglie wavelength** and the **Schwarzschild radius**:
 
 $\lambda = R_s$
 
-While this relationship naturally arises only at the Planck scale — and in a single object under extreme relativistic conditions — we propose a **two-subsystem approach** to realize it in laboratory-accessible systems.
+In a single body this relationship arises at the Planck scale under relativistic velocities, and, as later shown, also for larger masses at very low speeds. We propose a **two-subsystem approach** to bring it within experimental reach.
 
 ---
 
@@ -75,11 +84,11 @@ By tuning electron velocities or using relativistic drift, one can match the eff
 ### Main experimentally relevant configuration
 
 1. **Graphene-coated tungsten toroid**  
-   Electrons in the graphene layer form a tunable wave-like subsystem, while the tungsten core supplies mass. This configuration is shown to approach
+   Electrons in the graphene layer form a tunable wave-like subsystem, while the tungsten core supplies mass. This configuration is explored as a route toward
 \[
-\lambda = R_s \approx 10^{-25}\,\mathrm{m}
+\lambda = R_s \approx 10^{-26}\,\mathrm{m},
 \]
-under realistic laboratory conditions, requiring no exotic particles or modifications to known physics.
+requiring no exotic particles or modifications to known physics. Version 4 states its main practical limitation.
 
 ### Conceptual exploratory pathways
 
@@ -90,6 +99,18 @@ These configurations are retained as **speculative ideas** for future research (
 * Other combinations in which the total conduction electrons could exceed those in the original graphene sheet
 
 Such setups could, in principle, allow $\lambda$ to match even smaller $R_s$ more easily. **These ideas are not experimentally validated** but illustrate potential avenues for further study.
+
+---
+
+## Update in Version 4 (2026)
+
+Version 4 corrects explicit errors and adds an update section, as work in progress:
+
+* Any mass has a matching speed
+* A part of a body matched against the whole body
+* Rotation
+
+The work continues in A5, A11 and A12 (links above).
 
 ---
 
@@ -117,16 +138,17 @@ Such setups could, in principle, allow $\lambda$ to match even smaller $R_s$ mor
 ## Companion Resources
 
 * [Zenodo Record, all versions](https://doi.org/10.5281/zenodo.16371537)  
+* [Zenodo Version 4 (2026)](https://doi.org/10.5281/zenodo.23811063)  
 * [Zenodo Version 2](https://doi.org/10.5281/zenodo.16449277)  
 * OSF Archive (linked in Zenodo description)
 
 ---
 
-## 📄 Citation & Licensing
+## 📄 Citation & Copyright
 
 - **Author:** *Gravity Resonance* (pseudonym)  
-- **License:** [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
-> This project is published under the pseudonym Gravity Resonance to preserve privacy. Collaboration may be requested via Zenodo private messaging or GitHub Discussions with verified scientific partners.
+- **Copyright:** Version 4 © 2026 Gravity Resonance. All rights reserved. Earlier versions (2025) were released under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+> This project is published under the pseudonym Gravity Resonance to preserve privacy. For collaboration, please write to gravity.resonance@proton.me.
 
 ---
 
@@ -138,7 +160,10 @@ Such setups could, in principle, allow $\lambda$ to match even smaller $R_s$ mor
   author       = {Gravity Resonance},
   title        = {Toroid Models for Quantum–Gravitational Resonance via de Broglie–Schwarzschild Symmetry},
   year         = {2025},
+  note         = {Version 4, 2026},
   doi          = {10.5281/zenodo.16371537},
   publisher    = {Zenodo},
   url          = {https://doi.org/10.5281/zenodo.16371537}
 }
+```
+</details>
