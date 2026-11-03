@@ -36,6 +36,8 @@ A14 — One Cooper Pair per Compton Length: Does the vacuum field between superc
 
 A15 — Listening Where Waves Stay Silent: Bound states in the continuum, moving phases and quantum rotors as vacuum receivers tuned by the Compton lock https://doi.org/10.5281/zenodo.23857960
 
+Note: the .md files in this repository are earlier versions. The current versions are on Zenodo (links above).
+
 The earlier papers (A1–A6) explore possible engineered resonance systems, while A7–A9 focus on deriving mass and geometric scales from observed phenomena and standard equations. A10 tests these predictions on public data. A11–A15 develop the Compton lock and its laboratory tests.
 
  - A Note on the Mass Cancellation Theorem, Imaginary Kerr Horizons, and the A-Series Framework
